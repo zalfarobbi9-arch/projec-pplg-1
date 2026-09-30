@@ -1,0 +1,21 @@
+header{
+background-color: silver;
+text-align:center;
+padding: 10px;
+border: 15px:
+}
+nav{
+    background-color: chartreuse;
+    text-align: center;
+    color: black;
+    padding: 5px;
+    border: 12px;
+}
+main{
+    background-color: gold;
+    text-align: center;
+}
+footer{
+    background-color: silver;
+    text-align: center;
+}
